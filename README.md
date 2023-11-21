@@ -13,10 +13,10 @@ This Project is a WIP as our 7th Semester Project as a requirement for the Degre
 
 ---
 ## Workflow
-- [ ] CAD Design
+- [X] CAD Design
 - [ ] 3D Printing Parts
 - [ ] Base Code
-  - [ ] Alphabet Paths
+  - [X] Alphabet Paths
   - [ ] Arduino Communications
   - [ ] Servo Control
   - [ ] Final Control Codes
