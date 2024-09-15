@@ -37,6 +37,8 @@ If you use this project and thesis in your work, please cite this work and the c
 
 ## Folder Structure
 
-`workspace` folder consists of the workspace code (`,m` file) and the matlab figure (`.fig` file).
-`arduino` folder consists of the arduino code used for the hardware implementation.
-`resources` folder consists of the datasheets, images etc.
+The `workspace` folder consists of the workspace code (`,m` file) and the matlab figure (`.fig` file).
+
+The `arduino` folder consists of the arduino code used for the hardware implementation.
+
+The`resources` folder consists of the datasheets, images etc.
