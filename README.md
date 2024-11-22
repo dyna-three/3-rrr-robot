@@ -24,14 +24,15 @@ If you use this project and thesis in your work, please cite this work and the c
 - [X] Testing
 - [X] Debug/Modifications
 - [X] Final Assembly
-
+Project Complete !
 ---
 
 ## Team
 
 - [Utkaarsh Saha](https://github.com/Kishou-Arima)
-- [Niladri Das](https://github.com/nil-2)
 - [Nilanjana Roy Choudhury](https://github.com/Nilandita)
+- [Niladri Das](https://github.com/nil-2)
+
 
 ---
 
